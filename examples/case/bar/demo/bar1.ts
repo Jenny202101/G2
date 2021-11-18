@@ -1,8 +1,8 @@
 import { Chart } from '@antv/g2';
 
 const data = [
-  { type: '汽车', value: 34 },
-  { type: '建材家居', value: 85 },
+  { type: '小学', value: 34 },
+  { type: '初中', value: 85 },
   { type: '住宿旅游', value: 103 },
   { type: '交通运输与仓储邮政', value: 142 },
   { type: '建筑房地产', value: 251 },
